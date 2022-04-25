@@ -1,4 +1,4 @@
-#After creating this I found that it would be much easier/better to use the DNSQuery module.
+#After creating this I found that it would be much easier/better to use the DNSPython library.
 
 
 import requests
