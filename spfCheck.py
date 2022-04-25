@@ -1,3 +1,5 @@
+#After creating this I found that it would be much easier/better to use the DNSQuery module.
+
 
 import requests
 from bs4 import BeautifulSoup
